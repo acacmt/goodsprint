@@ -810,7 +810,7 @@ header {
     padding-bottom: 40px;
 }
 
-.img-responsive {
+img {
     display: block;
     margin-left: auto;
     margin-right: auto;
