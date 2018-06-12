@@ -810,6 +810,12 @@ header {
     padding-bottom: 40px;
 }
 
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 /*------------------------------------*\
 	Contact
 \*------------------------------------*/
